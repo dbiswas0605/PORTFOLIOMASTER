@@ -1,0 +1,22 @@
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\bin\Debug\Portfolio Master.exe
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\bin\Debug\Portfolio Master.pdb
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\obj\Debug\Portfolio_Master.Form1.resources
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\obj\Debug\Portfolio_Master.Properties.Resources.resources
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\obj\Debug\Portfolio Master.csproj.GenerateResource.Cache
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\obj\Debug\Portfolio Master.exe
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\obj\Debug\Portfolio Master.pdb
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\obj\Debug\Portfolio Master.csprojResolveAssemblyReference.cache
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\bin\Debug\YahooFinanceAPI.dll
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\bin\Debug\YahooFinanceAPI.pdb
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\Portfolio Master\bin\Debug\Portfolio Master.exe.config
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\bin\Debug\Portfolio Master.exe.config
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\obj\Debug\Portfolio Master.exe
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\obj\Debug\Portfolio Master.pdb
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\bin\Debug\Portfolio Master.exe
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\bin\Debug\Portfolio Master.pdb
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\bin\Debug\YahooFinanceAPI.dll
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\bin\Debug\YahooFinanceAPI.pdb
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\obj\Debug\Portfolio Master.csprojResolveAssemblyReference.cache
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\obj\Debug\Portfolio_Master.Form1.resources
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\obj\Debug\Portfolio_Master.Properties.Resources.resources
+C:\Users\send2\OneDrive\Development\Portfolio Master\Portfolio Master\obj\Debug\Portfolio Master.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\YahooFinanceAPI\bin\Debug\YahooFinanceAPI.dll
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\YahooFinanceAPI\bin\Debug\YahooFinanceAPI.pdb
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.dll
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.pdb
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\YahooFinanceAPI\bin\Debug\YahooFinanceAPI.dll.config
+C:\Users\d.biswas\Documents\Development\PortfolioTracker\Portfolio Master\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.csprojResolveAssemblyReference.cache
+C:\Users\send2\OneDrive\Development\Portfolio Master\YahooFinanceAPI\bin\Debug\YahooFinanceAPI.dll
+C:\Users\send2\OneDrive\Development\Portfolio Master\YahooFinanceAPI\bin\Debug\YahooFinanceAPI.pdb
+C:\Users\send2\OneDrive\Development\Portfolio Master\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.csprojResolveAssemblyReference.cache
+C:\Users\send2\OneDrive\Development\Portfolio Master\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.dll
+C:\Users\send2\OneDrive\Development\Portfolio Master\YahooFinanceAPI\obj\Debug\YahooFinanceAPI.pdb
